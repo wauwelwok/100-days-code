@@ -10,4 +10,14 @@
 
 ---
 
+## Day 2: 2 May 2020
+
+**Today's Progress:** Almost finshed with the Random Quote Generator. All the React stuff is complete.
+
+**Thoughts:** The React.js tutorial helped a bunch, especially with setup. I'm pretty confident I understand the basics, but I should brush up on JS classes.
+
+**Link to work:** [Random Quote Machine-Github](https://github.com/wauwelwok/random-quote)
+
+---
+
 
