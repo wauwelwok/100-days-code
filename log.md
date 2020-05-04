@@ -10,7 +10,7 @@
 
 ---
 
-## Day 2: 2 May 2020
+## Day 2: 3 May 2020
 
 **Today's Progress:** Almost finshed with the Random Quote Generator. All the React stuff is complete.
 
@@ -19,5 +19,6 @@
 **Link to work:** [Random Quote Machine-Github](https://github.com/wauwelwok/random-quote)
 
 ---
+
 
 
