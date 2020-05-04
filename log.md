@@ -20,5 +20,14 @@
 
 ---
 
+## Day 3: 4 May 2020
+
+**Today's Progress:** Added to the tweet button. Quote now shows up when you click the link. Deployed the app on Github Pages. 
+
+**Thoughts:** create-react-app isn't as scary as it seems on first glance. It's actually pretty easy to work with. 
+
+**Link to work:** [Random Quote Machine](https://wauwelwok.github.io/random-quote/)
+
+---
 
 
