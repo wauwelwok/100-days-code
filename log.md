@@ -30,4 +30,12 @@
 
 ---
 
+## Day 4: 5 May 2020
 
+**Today's Progress:** Added a quote API with fetch. 
+
+**Thoughts:** Read up on Async. Also, do not forget to check when it is loaded after the callback, not during.... Gonna play with CSS tomorrow, make it look better on mobile / small screen, maybe vary height for bigger / smaller quotes, change bg color of container based on first letter quote / author.
+
+**Link to work:** [Random Quote Machine](https://wauwelwok.github.io/random-quote/)
+
+---
