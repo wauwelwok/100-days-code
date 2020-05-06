@@ -39,3 +39,13 @@
 **Link to work:** [Random Quote Machine](https://wauwelwok.github.io/random-quote/)
 
 ---
+
+## Day 5: 6 May 2020
+
+**Today's Progress:** Did some problems from How to Code: Simple Data. Did problem 1 and 2 from Project Euler
+
+**Thoughts:** It's fun to build flashy stuff, but the basics are way more important. I can code algorithms (after thinking and trying for hours), but making them recursive... pff...
+
+**Link to work:** [Project Euler on FCC](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
+
+---
