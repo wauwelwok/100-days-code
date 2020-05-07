@@ -49,3 +49,13 @@
 **Link to work:** [Project Euler on FCC](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
 
 ---
+
+## Day 6: 7 May 2020
+
+**Today's Progress:** Learned about lists from How to Code, did a algo project on FCC, added a color changing state? and played around with some CSS
+
+**Thoughts:** Only got one more thing I want to add to the Random Quote project, but I might just put it on hold and start a new project tomorrow. I want to start with the Pomodoro clock project, because that's actually usefull.
+
+**Link to work:** [Random Quote Machine](https://wauwelwok.github.io/random-quote/)
+
+---
