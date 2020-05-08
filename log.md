@@ -59,3 +59,15 @@
 **Link to work:** [Random Quote Machine](https://wauwelwok.github.io/random-quote/)
 
 ---
+
+## Day 7: 8 May 2020
+
+**Today's Progress:** Did some FCC challanges
+
+**Thoughts:** Didn't really feel like doing anything, but I did work at some (3) algorithm problems.
+
+**Link to work:** [One of the problems at FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+---
+
+
