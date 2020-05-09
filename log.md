@@ -70,4 +70,14 @@
 
 ---
 
+## Day 8: 9 May 2020
+
+**Todayś Progress:** Went through basics of Objects again
+
+**Thoughts**: Have to read up on more basic JS things, because I've forgotten some basic usefull stuff
+
+**Link to work:** [Objects info at the Odin project](https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors)
+
+---
+
 
