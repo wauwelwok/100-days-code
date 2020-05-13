@@ -72,12 +72,19 @@
 
 ## Day 8: 9 May 2020
 
-**Todayś Progress:** Went through basics of Objects again
+**Today's Progress:** Went through basics of Objects again
 
-**Thoughts**: Have to read up on more basic JS things, because I've forgotten some basic usefull stuff
+**Thoughts:** Have to read up on more basic JS things, because I've forgotten some basic usefull stuff
 
 **Link to work:** [Objects info at the Odin project](https://www.theodinproject.com/courses/javascript/lessons/objects-and-object-constructors)
 
 ---
 
+## Day 9: 13 May 2020
+
+**Today's Progress:** Started the Library project on The Odin Project
+
+**Thoughts:** Wasn't motivated to code the last few days. But once I started reading / studying, I got sucked in and spent a few hours with Object Inheritance / Prototype Chain / This keyword. I wanna make a web app with database which contains info on all my houseplants, esp watering schedules. I also want to add a way to alert me if and which plants need watering. Also, making notes in markdown is way nicer than making notes in google docs.
+
+**Link to work:** [Library Project Page at the Odin Project](https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav)
 
