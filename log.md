@@ -88,3 +88,16 @@
 
 **Link to work:** [Library Project Page at the Odin Project](https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav)
 
+---
+
+## Day 10: 14 May 2020
+
+**Today's Progress:** Did How To Design about Reference, played around with a render function for the Odin Project Library
+
+**Thoughts:** The project is slowly getting along, because I have to Google every thing I want to try. Hopefully I'll start remembering DOM manipulation methods. I do know most methods used in "normal" functions, it's just the "rendering" I'm having trouble with.
+
+**Link to work:** [Library Project Page at the Odin Project](https://www.theodinproject.com/courses/javascript/lessons/library?ref=lnav)
+
+---
+
+
