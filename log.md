@@ -100,4 +100,14 @@
 
 ---
 
+## Day 11: 15 May 2020
+
+**Today's Progress:** Did How to Design about Naturals and did a FCC algorithm Project.
+
+**Thoughts:** I'm getting faster at building algoritm functions, but my solutions are still not as fancy as some other, almost one line, solutions.
+
+**Link to work:** [] ()
+
+---
+
 
